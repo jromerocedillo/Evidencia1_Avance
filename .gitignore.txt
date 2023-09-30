@@ -1,0 +1,6 @@
+
+# Ignora archivos del sistema .CLASS
+.class
+
+# Ignora archivos del sistema .SWP
+.swp
